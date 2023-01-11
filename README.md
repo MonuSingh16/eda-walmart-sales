@@ -6,7 +6,7 @@
 
 Walmart, the retail giant that operates a chain of hypermarkets, wants to understand their weekly sales data, especially the impact from holidays and big events; specifically, Super Bowl, Labor Day, Thanksgiving, and Christmas. In addition, Walmart wants to consider the effect from different macroeconomic and external factors on the weekly sales.
 
-We will in the end also create a simple linear regression model with preporcessor done via `sklearn.pipeline`
+We will in the end also create a simple linear regression model with preprocessing done via `sklearn.pipeline`
 
 *Note: if you see code that's unfamiliar to you, look up for the documentation, and try to understand what it does.*
 
